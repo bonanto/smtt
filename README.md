@@ -99,7 +99,7 @@ SM Type Test includes third-party components, such as the Python runtime and pac
 
 ## License
 
-SM Type Test is proprietary software. See [LICENSE](LICENSE.MD). The full End-User License Agreement is shown during installation.
+SM Type Test is proprietary software. See [LICENSE](LICENSE.md). The full End-User License Agreement is shown during installation.
 
 ---
 
