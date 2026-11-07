@@ -13,14 +13,22 @@
   </p>
 
   <br>
-  <img src="screens/App_Main.png" alt="SM Type Test Main Interface" width="700" />
+
 </div>
 
 ---
 
 Pick an exam profile, or use Practice mode to set your own countdown and scoring percentage. Type the passage in your language and see your score the way the exam would mark it. Your results and progress are saved, so you can follow your improvement over time.
 
-**Current version:** 0.1.0 (build 2026.1105) [updated from initial build: 2026.1010]
+<p>
+  <strong>Current version:</strong> 0.1.0 (build 2026.1105) [updated from initial build: 2026.1010]
+  <a href="https://github.com/bonanto/smtt/releases/latest/download/SMTT_Setup_0.1.0_2026.1105.exe">
+    <img align="right" src="https://img.shields.io/badge/Download_Now-v0.1.0-success?style=for-the-badge&logo=windows" alt="Download SM Type Test" />
+  </a>
+</p>
+<br>
+
+<div align="center"><p>  <img src="screens/App_Main.png" alt="SM Type Test Main Interface" width="700" /></p></div><br>
 
 ## Reason I built
 
