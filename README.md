@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/badge/platform-Windows_10%20%7C%2011-lightgrey.svg?style=flat-square" alt="Platform: Windows 10 | 11" />
     <img src="https://img.shields.io/badge/license-Proprietary-green.svg?style=flat-square" alt="License: Proprietary" />
   </p>
+
+  <br>
+  <img src="screens/App_Main.png" alt="SM Type Test Main Interface" width="700" />
 </div>
 
 ---
@@ -19,24 +22,9 @@ Pick an exam profile, or use Practice mode to set your own countdown and scoring
 
 **Current version:** 0.1.0 (build 2026.1105) [updated from initial build: 2026.1010]
 
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="screens/App_Main.png" alt="Main Application" width="400"/><br><sup>Main Interface</sup></td>
-      <td align="center"><img src="screens/Exam_Profiles.png" alt="Exam Profiles" width="400"/><br><sup>Exam Profiles</sup></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="screens/View_Result.png" alt="Results Viewer" width="400"/><br><sup>Results Viewer</sup></td>
-      <td align="center"><img src="screens/App_Main_Bangla.png" alt="Bangla Typing" width="400"/><br><sup>Multi-language Support (Bangla)</sup></td>
-    </tr>
-  </table>
-</div>
-
 ## Reason I built
 
-> _This project I started as a quiet effort to support someone's endeavour towards govt exams! I could not find any good place I can recommend to Her to practice typing effortlessly, with all features, and perfect simulation of exam halls. Every other places just asks for money to use extra features, and also - requires Internet. Hence, **SM Type Test**. - This Software entirely exists because of Her. Now opened for everyone, free forever; If you find this useful; all thanks and blessing goes to Her._ _- Bonanto._
+> _This project I started as a quiet effort to support someone's endeavour towards govt exams! I could not find any good place I can recommend to Her to practice typing effortlessly, with all features, and perfect simulation of exam halls. Every other places just asks for money to use extra features, and also - requires Internet. Hence, **SM Type Test**. - This Software entirely exists because of Her. Now opened for everyone, free forever; If you find this useful; all thanks and blessing goes to Her._ _- Bonanto._ 
 
 ## Download
 
@@ -48,7 +36,7 @@ Get `SMTT_Setup_0.1.0_2026.1105.exe` from the [**Latest** release](https://githu
 - Custom/Practice Profile. Practice mode for any exam: set your own countdown and scoring percentage
 - Typing in multiple languages
 - Mock tests Window - Simulates Exam Hall situation.
-- Live progress reports and a results viewer - Keep Track of your Progresses.
+- Live progress reports and a results viewer - Keep Track of your Progresses. 
 - Two scoring modes, **Strict** and **Exam Profile**, with a real-time score simulation
 - Hardcopy mode with OCR and saved passages
 - Notification shounds
@@ -61,12 +49,14 @@ _More exam profiles, such as RRB NTPC, are coming soon. Until then you can prepa
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="screens/Settings_Sounds_Hall_noise.png" alt="Hall Noise Settings" width="260"/><br><sup>Hall Simulation</sup></td>
-      <td align="center"><img src="screens/Target_Cutoff_Dropdown.png" alt="Target Cutoff" width="260"/><br><sup>Target Cutoffs</sup></td>
-      <td align="center"><img src="screens/Set_Timer_Drpdwn.png" alt="Timer Setup" width="260"/><br><sup>Custom Timers</sup></td>
+      <td align="center"><img src="screens/Exam_Profiles.png" alt="Exam Profiles" width="260"/><br><sup>Exam Profiles</sup></td>
+      <td align="center"><img src="screens/Set_Timer_Drpdwn.png" alt="Custom Timer Setup" width="260"/><br><sup>Practice: Custom Timers</sup></td>
+      <td align="center"><img src="screens/Target_Cutoff_Dropdown.png" alt="Target Cutoff" width="260"/><br><sup>Practice: Target Cutoffs</sup></td>
     </tr>
   </table>
 </div>
+
+<br>
 
 ## How it works
 
@@ -80,7 +70,12 @@ Every test can be scored two ways, so you can see how an exam would mark you:
 The score updates as you type, as a real-time simulation.
 
 <div align="center">
-  <img src="screens/Settings_Scoring_rules.png" alt="Scoring Rules" width="600"/>
+  <table>
+    <tr>
+      <td align="center"><img src="screens/View_Scoring_rules.png" alt="View Scoring Rules" width="370"/><br><sup>Live Rule Viewer</sup></td>
+      <td align="center"><img src="screens/App_Main_Bangla.png" alt="Bangla Typing" width="370"/><br><sup>Multi-language Support (Bangla)</sup></td>
+    </tr>
+  </table>
 </div>
 
 ### Hardcopy mode
@@ -101,11 +96,13 @@ The passage is saved permanently, so you never need to scan the same page twice.
 Reports update as you practise, and the results viewer lets you look back at earlier tests.
 
 <div align="center">
+  <img src="screens/View_Result.png" alt="Results Viewer" width="600"/><br><sup>Comprehensive Results Viewer</sup>
+  <br><br>
   <table>
     <tr>
-      <td align="center"><img src="screens/View_Progress_AreaChart.png" alt="Area Chart" width="260"/></td>
-      <td align="center"><img src="screens/View_Progress_BarChart.png" alt="Bar Chart" width="260"/></td>
-      <td align="center"><img src="screens/View_Progress_LineChart.png" alt="Line Chart" width="260"/></td>
+      <td align="center"><img src="screens/View_Progress_AreaChart.png" alt="Area Chart" width="300"/></td>
+      <td align="center"><img src="screens/View_Progress_BarChart.png" alt="Bar Chart" width="300"/></td>
+      <td align="center"><img src="screens/View_Progress_LineChart.png" alt="Line Chart" width="300"/></td>
     </tr>
   </table>
 </div>
@@ -119,7 +116,7 @@ Reports update as you practise, and the results viewer lets you look back at ear
 3. When it finishes, click **Finish**. SM Type Test opens automatically.
 
 **Notes:**
-- If Windows Smart Screen Shows up, Click : More Info > Run Anyway.
+- If Windows Smart Screen Shows up, Click : More Info > Run Anyway. 
 - It installs for your user account only. Administrator rights are not needed.
 - It adds a Desktop and a Start menu shortcut, and an entry in Windows Settings under Apps.
 - The installer is not code-signed yet, so Windows SmartScreen may show a warning. Choose **More info**, then **Run anyway**.
@@ -127,13 +124,13 @@ Reports update as you practise, and the results viewer lets you look back at ear
 
 _New Features and SHA-256 of the installer: shown in the release notes._
 
-### Upgrade, repair, reinstall, uninstall
+### Upgrade, repair, reinstall uninstall
 
 Run the installer again on a computer that already has SM Type Test. It asks what to do:
 
 - **Upgrade:** available when the installer is a newer build than the installed one.
 - **Repair:** reinstalls the program files to fix anything missing or damaged.
-- **Reinstall:** complete reinstallation. First it uninstalls then re-installs automatically.
+- **Reinstall:** complete reinstallation. First it uninstalls then re-installs automatically.  
 - **Uninstall:** removes the app, then confirms that it was removed.
 
 You can also uninstall from Windows Settings, under Apps.
@@ -153,13 +150,28 @@ SM Type Test can check GitHub for new versions, new passages and OCR updates. Yo
 - If the app closes unexpectedly, it writes details to `crash.log` in the `.smtt` folder. Please attach it when you report an issue.
 - Report problems at [github.com/bonanto/smtt/issues](https://github.com/bonanto/smtt/issues).
 
-## Third-party software
+## Third-party software & Licenses
 
 SM Type Test includes third-party components, such as the Python runtime and packages, Qt, Tesseract OCR, Hunspell dictionaries and the Noto Emoji font. Each keeps its own license. The licenses and credits are shown in the app's About page.
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="screens/Settings_Scoring_rules.png" alt="Scoring Rules Configuration" width="400"/><br><sup>Scoring Configuration</sup></td>
+      <td align="center"><img src="screens/Settings_About.png" alt="Settings About Page" width="400"/><br><sup>About & Licenses</sup></td>
+    </tr>
+  </table>
+    <table>
+    <tr>
+      <td align="center"><img src="screens/Settings_Sounds.png" alt="Sound Settings" width="400"/><br><sup>Notification Sounds</sup></td>
+      <td align="center"><img src="screens/Settings_Sounds_Hall_noise.png" alt="Hall Noise Settings" width="400"/><br><sup>Exam Hall Simulation</sup></td>
+    </tr>
+  </table>
+</div>
+
 ## License
 
-SM Type Test is proprietary software. See [LICENSE](LICENSE.md)[cite: 1]. The full End-User License Agreement is shown during installation.
+SM Type Test is proprietary software. See [LICENSE](LICENSE.md). The full End-User License Agreement is shown during installation.
 
 ---
 
