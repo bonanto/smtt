@@ -6,10 +6,10 @@
   <p><strong>A typing practice and evaluation app for general typing and Indian government exams, for Windows.</strong></p>
 
   <p>
-    <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?style=flat-square" alt="Version 0.1.0" />
-    <img src="https://img.shields.io/badge/build-2026.1105-orange.svg?style=flat-square" alt="Build 2026.1105" />
-    <img src="https://img.shields.io/badge/platform-Windows_10%20%7C%2011-lightgrey.svg?style=flat-square" alt="Platform: Windows 10 | 11" />
-    <img src="https://img.shields.io/badge/license-Proprietary-green.svg?style=flat-square" alt="License: Proprietary" />
+    <a href="https://github.com/bonanto/smtt/releases"><img src="https://img.shields.io/badge/version-0.1.0-blue.svg?style=flat-square" alt="Version 0.1.0" /></a>
+    <a href="https://github.com/bonanto/smtt/releases/latest"><img src="https://img.shields.io/badge/build-2026.1105-orange.svg?style=flat-square" alt="Build 2026.1105" /></a>
+    <a href="README.md"><img src="https://img.shields.io/badge/platform-Windows_10%20%7C%2011-lightgrey.svg?style=flat-square" alt="Platform: Windows 10 | 11" /></a>
+    <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-Proprietary-green.svg?style=flat-square" alt="License: Proprietary" /></a>
   </p>
 
   <br>
