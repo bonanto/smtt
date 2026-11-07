@@ -1,14 +1,42 @@
+<div align="center">
+  <img src="screens/App_Icon_Logo.png" alt="SM Type Test Logo" width="120" />
 
-# SM Type Test
+  <h1>SM Type Test</h1>
 
-A typing practice and evaluation app for general typing and Indian government exams, for Windows.
+  <p><strong>A typing practice and evaluation app for general typing and Indian government exams, for Windows.</strong></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?style=flat-square" alt="Version 0.1.0" />
+    <img src="https://img.shields.io/badge/build-2026.1105-orange.svg?style=flat-square" alt="Build 2026.1105" />
+    <img src="https://img.shields.io/badge/platform-Windows_10%20%7C%2011-lightgrey.svg?style=flat-square" alt="Platform: Windows 10 | 11" />
+    <img src="https://img.shields.io/badge/license-Proprietary-green.svg?style=flat-square" alt="License: Proprietary" />
+  </p>
+</div>
+
+---
 
 Pick an exam profile, or use Practice mode to set your own countdown and scoring percentage. Type the passage in your language and see your score the way the exam would mark it. Your results and progress are saved, so you can follow your improvement over time.
 
 **Current version:** 0.1.0 (build 2026.1105) [updated from initial build: 2026.1010]
 
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="screens/App_Main.png" alt="Main Application" width="400"/><br><sup>Main Interface</sup></td>
+      <td align="center"><img src="screens/Exam_Profiles.png" alt="Exam Profiles" width="400"/><br><sup>Exam Profiles</sup></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="screens/View_Result.png" alt="Results Viewer" width="400"/><br><sup>Results Viewer</sup></td>
+      <td align="center"><img src="screens/App_Main_Bangla.png" alt="Bangla Typing" width="400"/><br><sup>Multi-language Support (Bangla)</sup></td>
+    </tr>
+  </table>
+</div>
+
 ## Reason I built
-_This project I started as a quiet effort to support someone's endeavour towards govt exams! I could not find any good place I can recommend to Her to practice typing effortlessly, with all features, and perfect simulation of exam halls. Every other places just asks for money to use extra features, and also - requires Internet. Hence, **SM Type Test**. - This Software entirely exists because of Her. Now opened for everyone, free forever; If you find this useful; all thanks and blessing goes to Her._ _- Bonanto._ 
+
+> _This project I started as a quiet effort to support someone's endeavour towards govt exams! I could not find any good place I can recommend to Her to practice typing effortlessly, with all features, and perfect simulation of exam halls. Every other places just asks for money to use extra features, and also - requires Internet. Hence, **SM Type Test**. - This Software entirely exists because of Her. Now opened for everyone, free forever; If you find this useful; all thanks and blessing goes to Her._ _- Bonanto._
 
 ## Download
 
@@ -20,13 +48,25 @@ Get `SMTT_Setup_0.1.0_2026.1105.exe` from the [**Latest** release](https://githu
 - Custom/Practice Profile. Practice mode for any exam: set your own countdown and scoring percentage
 - Typing in multiple languages
 - Mock tests Window - Simulates Exam Hall situation.
-- Live progress reports and a results viewer - Keep Track of your Progresses. 
+- Live progress reports and a results viewer - Keep Track of your Progresses.
 - Two scoring modes, **Strict** and **Exam Profile**, with a real-time score simulation
 - Hardcopy mode with OCR and saved passages
 - Notification shounds
 - Exam Hall Simulation with Hall Noise (Keybaord sounds and hall sounds). You can Turn off or Customise in Settings
 
-More exam profiles, such as RRB NTPC, are coming soon. Until then you can prepare for any exam in Practice mode.
+_More exam profiles, such as RRB NTPC, are coming soon. Until then you can prepare for any exam in Practice mode._
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="screens/Settings_Sounds_Hall_noise.png" alt="Hall Noise Settings" width="260"/><br><sup>Hall Simulation</sup></td>
+      <td align="center"><img src="screens/Target_Cutoff_Dropdown.png" alt="Target Cutoff" width="260"/><br><sup>Target Cutoffs</sup></td>
+      <td align="center"><img src="screens/Set_Timer_Drpdwn.png" alt="Timer Setup" width="260"/><br><sup>Custom Timers</sup></td>
+    </tr>
+  </table>
+</div>
 
 ## How it works
 
@@ -39,6 +79,10 @@ Every test can be scored two ways, so you can see how an exam would mark you:
 
 The score updates as you type, as a real-time simulation.
 
+<div align="center">
+  <img src="screens/Settings_Scoring_rules.png" alt="Scoring Rules" width="600"/>
+</div>
+
 ### Hardcopy mode
 
 Some exams give you a printed passage to copy. Hardcopy mode is made for that:
@@ -50,11 +94,21 @@ Some exams give you a printed passage to copy. Hardcopy mode is made for that:
 
 The passage is saved permanently, so you never need to scan the same page twice.
 
-_Note: Must select correct language for OCR, otherwise OCR will not be done properly_
+> _Note: Must select correct language for OCR, otherwise OCR will not be done properly_
 
 ### Progress and results
 
 Reports update as you practise, and the results viewer lets you look back at earlier tests.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="screens/View_Progress_AreaChart.png" alt="Area Chart" width="260"/></td>
+      <td align="center"><img src="screens/View_Progress_BarChart.png" alt="Bar Chart" width="260"/></td>
+      <td align="center"><img src="screens/View_Progress_LineChart.png" alt="Line Chart" width="260"/></td>
+    </tr>
+  </table>
+</div>
 
 ## Installation
 
@@ -64,22 +118,22 @@ Reports update as you practise, and the results viewer lets you look back at ear
 2. Run it, read the license, and choose **Accept and Install**.
 3. When it finishes, click **Finish**. SM Type Test opens automatically.
 
-Notes:
-- If Windows Smart Screen Shows up, Click : More Info > Run Anyway. 
+**Notes:**
+- If Windows Smart Screen Shows up, Click : More Info > Run Anyway.
 - It installs for your user account only. Administrator rights are not needed.
 - It adds a Desktop and a Start menu shortcut, and an entry in Windows Settings under Apps.
 - The installer is not code-signed yet, so Windows SmartScreen may show a warning. Choose **More info**, then **Run anyway**.
 - If your antivirus flags the installer, it is a false positive. Please report it through the issues page.
 
-New Features and SHA-256 of the installer: shown in the release notes.
+_New Features and SHA-256 of the installer: shown in the release notes._
 
-### Upgrade, repair, reinstall uninstall
+### Upgrade, repair, reinstall, uninstall
 
 Run the installer again on a computer that already has SM Type Test. It asks what to do:
 
 - **Upgrade:** available when the installer is a newer build than the installed one.
 - **Repair:** reinstalls the program files to fix anything missing or damaged.
-- **Reinstall:** complete reinstallation. First it uninstalls then re-installs automatically.  
+- **Reinstall:** complete reinstallation. First it uninstalls then re-installs automatically.
 - **Uninstall:** removes the app, then confirms that it was removed.
 
 You can also uninstall from Windows Settings, under Apps.
@@ -105,10 +159,11 @@ SM Type Test includes third-party components, such as the Python runtime and pac
 
 ## License
 
-SM Type Test is proprietary software. See [LICENSE](LICENSE.md). The full End-User License Agreement is shown during installation.
+SM Type Test is proprietary software. See [LICENSE](LICENSE.md)[cite: 1]. The full End-User License Agreement is shown during installation.
 
 ---
 
-Copyright © 2026 Bonanto. All rights reserved.
-
-Made with love...❤️
+<div align="center">
+  Copyright © 2026 Bonanto. All rights reserved.<br>
+  Made with love...❤️
+</div>
