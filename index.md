@@ -74,15 +74,12 @@ Some exams give you a printed passage to copy. Hardcopy mode handles this perfec
 Reports update as you practice. The detailed results viewer lets you look back at earlier tests, analyze your errors, and visualize your speed and accuracy trajectory.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bonanto/smtt/main/screens/View_Result.png" width="850" style="border-radius: 8px; margin-bottom: 15px;"/><br>
-  
-  <table>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/bonanto/smtt/main/screens/View_Progress_AreaChart.png" width="280"/></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/bonanto/smtt/main/screens/View_Progress_BarChart.png" width="280"/></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/bonanto/smtt/main/screens/View_Progress_LineChart.png" width="280"/></td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/bonanto/smtt/main/screens/View_Result.png" width="70%" style="border-radius: 8px; margin-bottom: 15px;"/>
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://raw.githubusercontent.com/bonanto/smtt/main/screens/View_Progress_AreaChart.png" width="33%"/>
+    <img src="https://raw.githubusercontent.com/bonanto/smtt/main/screens/View_Progress_BarChart.png" width="33%"/>
+    <img src="https://raw.githubusercontent.com/bonanto/smtt/main/screens/View_Progress_LineChart.png" width="33%"/>
+  </div>
 </div>
 
 ---
